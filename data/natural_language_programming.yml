@@ -1,0 +1,8 @@
+---
+lexicon:
+  title: Natural language programming
+  description: Natural Language Programming (NLP) is an ontology-assisted way of programming in terms of natural language sentences, e.g. English. A structured document with Content, sections and subsections for explanations of sentences forms a NLP document, which is actually a computer program.
+  abbreviation: NLP
+  links:
+    - https://en.wikipedia.org/wiki/Natural_language_programming
+  tags:
